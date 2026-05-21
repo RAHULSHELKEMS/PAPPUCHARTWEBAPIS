@@ -1,0 +1,6 @@
+@PAPPUCHARTWEBAPIS_HostAddress = http://localhost:5056
+
+GET {{PAPPUCHARTWEBAPIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
