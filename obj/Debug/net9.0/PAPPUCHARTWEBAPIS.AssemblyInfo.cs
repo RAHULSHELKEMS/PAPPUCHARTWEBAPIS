@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAPPUCHARTWEBAPIS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e6de5f15a7580f0eed353399b61420ec63937b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAPPUCHARTWEBAPIS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAPPUCHARTWEBAPIS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
